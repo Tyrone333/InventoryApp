@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="add_product">Add Product</string>
+    <string name="sold">sold</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all_products">Delete all Products</string>
+    <string name="error_name_missing">Please give us a name for the Product</string>
+    <string name="error_quantity">How much items do you have?</string>
+    <string name="error_price">Please enter a price</string>
+    <string name="error_picture">Please take a picture</string>
+    <string name="no_items_left">You have no items left</string>
+    <string name="order_per_email">Order per Email</string>
+    <string name="order_new_product">Order new product</string>
+    <string name="dollar_sign">"$ "</string>
+    <string name="test_email_address">test@test.com</string>
+    <string name="order_text">"We want to order 10 more pieces of the product: "</string>
+    <string name="order_subject">order</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_">Delete</string>
+    <string name="really_delete">"Do you really want to delete the product: "</string>
+    <string name="canceled">Canceled</string>
+    <string name="there_are_no_items_in_the_database_to_add_items_press_the_plus_button_in_the_bottom_right_corner">There are no items in the database, to add items, press the plus button in the bottom right corner</string>
+    <string name="quantity_">"Quantity: "</string>
+    <string name="price_">"Price: "</string>
+</resources>
